@@ -1,6 +1,6 @@
 # WORDLY. — Vocabulary Checking Studio
 
-> Visual Editorial × Teacher-led classroom assessment · Vietnamese / English
+> Vibrant Learning Arcade × Teacher-led classroom assessment · Vietnamese / English
 
 **Status:** Project initialized. Awaiting the **approved WORDLY 2.0 Google Stitch export** before implementing any visual UI. **Do not reuse the discontinued WORDLY V1 design.**
 
@@ -39,7 +39,12 @@ WORDLY is a bilingual, teacher-led English vocabulary checking and progress-trac
 ## Visual requirements
 
 - The latest approved Google Stitch design is the **single source of truth** for layout, typography, colors, spacing, illustration, graphics and component states.
-- Visual Editorial, expressive but practical; minimal text density without hiding capabilities.
+- **Vibrant Learning Arcade**: colorful, sophisticated gamified EdTech, energetic 2.5D illustrations, large challenge cards, expressive graphical feedback and restrained motion; visually playful without feeling childish.
+- **Do not use the retired Editorial/Scholarly Editorial aesthetic**, magazine serif styling, ivory/forest-green identity, or the discontinued WORDLY V1 assets.
+- Suggested palette (subject to approved Stitch design): Electric Blue #4865F5, Coral #FF6B6B, Teal #14C6B4, Sunshine #FFCC47, Violet #9167F2, Midnight Navy #17233D, Cloud #F7FAFF.
+- Prefer friendly rounded sans-serif typography, such as Be Vietnam Pro and Nunito Sans, with strong Vietnamese diacritic support.
+- Minimize prose in teacher workflows without hiding required functions; generous touch targets and high-contrast 16:9 projector views.
+- Use visual cards, large illustrated challenges, animated student picker, progress rings and attractive, readable learning charts; avoid meaningless decoration.
 - Distinct Teacher Workspace and immersive **Classroom Live**.
 - Accessible large screen / iPad use, keyboard navigation, reduced motion.
 - Centralized static VI/EN translation resources; no automatic AI translation at runtime.
